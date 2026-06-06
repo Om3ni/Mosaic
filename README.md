@@ -31,6 +31,7 @@ Mosaic provisions, configures, and runs a Conan Exiles dedicated server from a s
 2. **Configure** — Set the server name, passwords, region, and ports on the Home tab.
 3. **Add mods** — Paste Workshop IDs/URLs or import a `modlist.txt` into a profile; Mosaic downloads them for you.
 4. **Start** — Hit Start, watch the live console, and once it reports ready, share your IP + port.
+5. Launch Conan Exiles will launch the launcher of Conan Exiles to avoid conflicts with the dev kit running. 
 
 > **Modded servers:** keep **BattlEye off** — Conan won't load mods with it enabled. Mosaic exposes this toggle under Administration → Anti-cheat.
 
